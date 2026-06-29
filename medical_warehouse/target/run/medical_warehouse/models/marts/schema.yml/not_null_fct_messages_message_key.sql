@@ -1,0 +1,25 @@
+
+    
+    select
+      count(*) as failures,
+      count(*) != 0 as should_warn,
+      count(*) != 0 as should_error
+    from (
+      
+    
+  
+    
+    
+
+
+
+select message_key
+from "warehouse"."main"."fct_messages"
+where message_key is null
+
+
+
+  
+  
+      
+    ) dbt_internal_test

@@ -1,0 +1,26 @@
+2026-06-29 11:34:17,186 - INFO - [DEMO MODE] Generating sample medical/pharma data
+2026-06-29 11:34:17,202 - INFO - [DEMO] Scraping @CheMed123 (limit=12)
+2026-06-29 11:34:17,495 - INFO - [DEMO] Finished @CheMed123: 12 messages
+2026-06-29 11:34:17,498 - INFO - [DEMO] Scraping @lobelia4cosmetics (limit=9)
+2026-06-29 11:34:17,586 - INFO - [DEMO] Finished @lobelia4cosmetics: 9 messages
+2026-06-29 11:34:17,589 - INFO - [DEMO] Scraping @tikvahpharma (limit=9)
+2026-06-29 11:34:17,670 - INFO - [DEMO] Finished @tikvahpharma: 9 messages
+2026-06-29 11:34:17,700 - INFO - [DEMO] Complete. Total messages: 30
+2026-06-29 11:34:17,701 - INFO -   @CheMed123: 12 messages
+2026-06-29 11:34:17,702 - INFO -   @lobelia4cosmetics: 9 messages
+2026-06-29 11:34:17,702 - INFO -   @tikvahpharma: 9 messages
+2026-06-29 11:34:17,702 - INFO - [DEMO] Data lake populated at: data/raw/
+2026-06-29 11:34:17,703 - INFO - [DEMO] Log file: logs/scrape_2026-06-29.log
+2026-06-29 11:43:04,606 - INFO - [DEMO MODE] Generating sample medical/pharma data
+2026-06-29 11:43:04,615 - INFO - [DEMO] Scraping @CheMed123 (limit=12)
+2026-06-29 11:43:04,768 - INFO - [DEMO] Finished @CheMed123: 12 messages
+2026-06-29 11:43:04,770 - INFO - [DEMO] Scraping @lobelia4cosmetics (limit=9)
+2026-06-29 11:43:04,868 - INFO - [DEMO] Finished @lobelia4cosmetics: 9 messages
+2026-06-29 11:43:04,870 - INFO - [DEMO] Scraping @tikvahpharma (limit=9)
+2026-06-29 11:43:04,948 - INFO - [DEMO] Finished @tikvahpharma: 9 messages
+2026-06-29 11:43:04,961 - INFO - [DEMO] Complete. Total messages: 30
+2026-06-29 11:43:04,962 - INFO -   @CheMed123: 12 messages
+2026-06-29 11:43:04,962 - INFO -   @lobelia4cosmetics: 9 messages
+2026-06-29 11:43:04,963 - INFO -   @tikvahpharma: 9 messages
+2026-06-29 11:43:04,963 - INFO - [DEMO] Data lake populated at: data/raw/
+2026-06-29 11:43:04,963 - INFO - [DEMO] Log file: logs/scrape_2026-06-29.log

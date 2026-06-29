@@ -1,0 +1,8 @@
+
+medical_warehouse:
+  outputs:
+    dev:
+      type: duckdb
+      path: /content/drive/MyDrive/medical_telegram_warehouse/warehouse.duckdb
+      schema: main
+  target: dev

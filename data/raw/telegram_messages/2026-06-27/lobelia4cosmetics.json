@@ -1,0 +1,101 @@
+[
+  {
+    "message_id": 1000,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-27T08:50:54.102868+00:00",
+    "message_text": "Vitamin E cream. 50ml. Anti-aging. 450 ETB. Organic ingredients.",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/1000.jpg",
+    "views": 4366,
+    "forwards": 335
+  },
+  {
+    "message_id": 1001,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-27T03:50:54.102868+00:00",
+    "message_text": "Coconut oil hair mask. 250ml. Deep conditioning. 320 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 375,
+    "forwards": 27
+  },
+  {
+    "message_id": 1002,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-26T22:50:54.102868+00:00",
+    "message_text": "Activated charcoal face wash. 150ml. Removes impurities. 280 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/1002.jpg",
+    "views": 117,
+    "forwards": 8
+  },
+  {
+    "message_id": 1003,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-26T18:50:54.102868+00:00",
+    "message_text": "Aloe vera gel. 100% pure. 200ml. Soothes skin. 210 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 3466,
+    "forwards": 205
+  },
+  {
+    "message_id": 1004,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-26T16:50:54.102868+00:00",
+    "message_text": "Tea tree oil (antiseptic). 30ml. For acne & fungal infections. 340 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/1004.jpg",
+    "views": 2429,
+    "forwards": 175
+  },
+  {
+    "message_id": 1005,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-26T10:50:54.102868+00:00",
+    "message_text": "Rose water toner. 200ml. Natural pH balance. 180 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 117,
+    "forwards": 6
+  },
+  {
+    "message_id": 1006,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-26T06:50:54.102868+00:00",
+    "message_text": "Shea butter body lotion. 500ml. SPF 15. 420 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/1006.jpg",
+    "views": 1025,
+    "forwards": 85
+  },
+  {
+    "message_id": 1007,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-26T01:50:54.102868+00:00",
+    "message_text": "Nail strengthener (keratin). 15ml. 120 ETB. Quick dry.",
+    "has_media": false,
+    "image_path": null,
+    "views": 7816,
+    "forwards": 662
+  },
+  {
+    "message_id": 1008,
+    "channel_name": "lobelia4cosmetics",
+    "channel_title": "Lobelia Cosmetics & Health",
+    "message_date": "2026-06-25T21:50:54.102868+00:00",
+    "message_text": "Lavender essential oil. 10ml. Relaxation. 250 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/lobelia4cosmetics/1008.jpg",
+    "views": 3126,
+    "forwards": 87
+  }
+]

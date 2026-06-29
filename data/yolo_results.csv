@@ -1,0 +1,17 @@
+message_id,channel,image_path,detected_classes,confidences,image_category,has_person,has_product
+1000,CheMed123,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/CheMed123/1000.jpg,,,other,False,False
+1002,CheMed123,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/CheMed123/1002.jpg,,,other,False,False
+1004,CheMed123,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/CheMed123/1004.jpg,,,other,False,False
+1006,CheMed123,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/CheMed123/1006.jpg,,,other,False,False
+1008,CheMed123,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/CheMed123/1008.jpg,,,other,False,False
+1010,CheMed123,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/CheMed123/1010.jpg,,,other,False,False
+1000,lobelia4cosmetics,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/lobelia4cosmetics/1000.jpg,,,other,False,False
+1002,lobelia4cosmetics,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/lobelia4cosmetics/1002.jpg,,,other,False,False
+1004,lobelia4cosmetics,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/lobelia4cosmetics/1004.jpg,,,other,False,False
+1006,lobelia4cosmetics,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/lobelia4cosmetics/1006.jpg,,,other,False,False
+1008,lobelia4cosmetics,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/lobelia4cosmetics/1008.jpg,,,other,False,False
+1000,tikvahpharma,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/tikvahpharma/1000.jpg,,,other,False,False
+1002,tikvahpharma,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/tikvahpharma/1002.jpg,,,other,False,False
+1004,tikvahpharma,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/tikvahpharma/1004.jpg,,,other,False,False
+1006,tikvahpharma,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/tikvahpharma/1006.jpg,,,other,False,False
+1008,tikvahpharma,/content/drive/MyDrive/medical_telegram_warehouse/data/raw/images/tikvahpharma/1008.jpg,,,other,False,False

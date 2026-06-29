@@ -1,0 +1,101 @@
+[
+  {
+    "message_id": 1000,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-27T05:50:54.102868+00:00",
+    "message_text": "Azithromycin 500mg. 3 tablets/blister. Antibiotic. 210 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/tikvahpharma/1000.jpg",
+    "views": 4015,
+    "forwards": 286
+  },
+  {
+    "message_id": 1001,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-27T01:50:54.102868+00:00",
+    "message_text": "Doxycycline 100mg. 10 capsules. Broad-spectrum. 280 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 6142,
+    "forwards": 508
+  },
+  {
+    "message_id": 1002,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-26T22:50:54.102868+00:00",
+    "message_text": "Metformin 500mg. Diabetes control. 100 tablets. 340 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/tikvahpharma/1002.jpg",
+    "views": 2217,
+    "forwards": 12
+  },
+  {
+    "message_id": 1003,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-26T18:50:54.102868+00:00",
+    "message_text": "Omeprazole 20mg. Acid reflux. 14 capsules. 150 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 524,
+    "forwards": 28
+  },
+  {
+    "message_id": 1004,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-26T16:50:54.102868+00:00",
+    "message_text": "Ciprofloxacin 500mg. 10 tablets. 260 ETB. In stock.",
+    "has_media": true,
+    "image_path": "data/raw/images/tikvahpharma/1004.jpg",
+    "views": 7015,
+    "forwards": 98
+  },
+  {
+    "message_id": 1005,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-26T11:50:54.102868+00:00",
+    "message_text": "Losartan 50mg. Hypertension. 30 tablets. 320 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 7999,
+    "forwards": 384
+  },
+  {
+    "message_id": 1006,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-26T07:50:54.102868+00:00",
+    "message_text": "Cetirizine 10mg. Antihistamine. 20 tablets. 120 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/tikvahpharma/1006.jpg",
+    "views": 5198,
+    "forwards": 56
+  },
+  {
+    "message_id": 1007,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-26T02:50:54.102868+00:00",
+    "message_text": "Prednisolone 5mg. 100 tablets. Steroid. 450 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 5732,
+    "forwards": 498
+  },
+  {
+    "message_id": 1008,
+    "channel_name": "tikvahpharma",
+    "channel_title": "Tikvah Pharmaceuticals",
+    "message_date": "2026-06-26T00:50:54.102868+00:00",
+    "message_text": "Saline nasal spray. 100ml. 95 ETB. For congestion.",
+    "has_media": true,
+    "image_path": "data/raw/images/tikvahpharma/1008.jpg",
+    "views": 3589,
+    "forwards": 246
+  }
+]

@@ -1,0 +1,31 @@
+message_id,channel_name,channel_title,message_date,message_text,has_media,image_path,views,forwards
+1000,CheMed123,CheMed Medical Products,2026-06-27T06:50:54.102868+00:00,"Amoxicillin 500mg capsules, 100pcs/bottle. Exp 2028. Wholesale price: 450 ETB.",True,data/raw/images/CheMed123/1000.jpg,1628,38
+1001,CheMed123,CheMed Medical Products,2026-06-27T04:50:54.102868+00:00,Paracetamol 500mg tablets. 1000pcs pack. Bulk order available. 320 ETB.,False,,4972,420
+1002,CheMed123,CheMed Medical Products,2026-06-26T23:50:54.102868+00:00,NEW: Ibuprofen 400mg. Anti-inflammatory. 50 strips per box. 550 ETB.,True,data/raw/images/CheMed123/1002.jpg,6845,313
+1003,CheMed123,CheMed Medical Products,2026-06-26T17:50:54.102868+00:00,Medical glucose test strips. Box of 50. Accurate reading. 280 ETB.,False,,6390,396
+1004,CheMed123,CheMed Medical Products,2026-06-26T16:50:54.102868+00:00,Cough syrup (Guaifenesin) 100ml. Cherry flavor. 180 ETB. Stock available.,True,data/raw/images/CheMed123/1004.jpg,7271,593
+1005,CheMed123,CheMed Medical Products,2026-06-26T09:50:54.102868+00:00,Vitamin C 1000mg effervescent. 20 tablets/tube. Boosts immunity. 210 ETB.,False,,7616,692
+1006,CheMed123,CheMed Medical Products,2026-06-26T07:50:54.102868+00:00,Insulin syringe 1ml U-100. Box of 100. Sterile. 340 ETB.,True,data/raw/images/CheMed123/1006.jpg,6882,374
+1007,CheMed123,CheMed Medical Products,2026-06-26T01:50:54.102868+00:00,"Blood pressure monitor (digital). Wrist type. 1,200 ETB. 1-year warranty.",False,,2306,6
+1008,CheMed123,CheMed Medical Products,2026-06-25T21:50:54.102868+00:00,Antibiotic ointment (Neomycin). 15g tube. For skin infections. 95 ETB.,True,data/raw/images/CheMed123/1008.jpg,4790,133
+1009,CheMed123,CheMed Medical Products,2026-06-25T20:50:54.102868+00:00,Multivitamin syrup for kids. 200ml. Iron + Zinc. 250 ETB.,False,,6047,243
+1010,CheMed123,CheMed Medical Products,2026-06-25T16:50:54.102868+00:00,Salbutamol inhaler (Asthma). 200 doses. 320 ETB. In stock.,True,data/raw/images/CheMed123/1010.jpg,4048,237
+1011,CheMed123,CheMed Medical Products,2026-06-25T11:50:54.102868+00:00,Surgical masks (3-ply). Box of 50. 180 ETB. High quality.,False,,6167,53
+1000,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-27T08:50:54.102868+00:00,Vitamin E cream. 50ml. Anti-aging. 450 ETB. Organic ingredients.,True,data/raw/images/lobelia4cosmetics/1000.jpg,4366,335
+1001,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-27T03:50:54.102868+00:00,Coconut oil hair mask. 250ml. Deep conditioning. 320 ETB.,False,,375,27
+1002,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-26T22:50:54.102868+00:00,Activated charcoal face wash. 150ml. Removes impurities. 280 ETB.,True,data/raw/images/lobelia4cosmetics/1002.jpg,117,8
+1003,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-26T18:50:54.102868+00:00,Aloe vera gel. 100% pure. 200ml. Soothes skin. 210 ETB.,False,,3466,205
+1004,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-26T16:50:54.102868+00:00,Tea tree oil (antiseptic). 30ml. For acne & fungal infections. 340 ETB.,True,data/raw/images/lobelia4cosmetics/1004.jpg,2429,175
+1005,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-26T10:50:54.102868+00:00,Rose water toner. 200ml. Natural pH balance. 180 ETB.,False,,117,6
+1006,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-26T06:50:54.102868+00:00,Shea butter body lotion. 500ml. SPF 15. 420 ETB.,True,data/raw/images/lobelia4cosmetics/1006.jpg,1025,85
+1007,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-26T01:50:54.102868+00:00,Nail strengthener (keratin). 15ml. 120 ETB. Quick dry.,False,,7816,662
+1008,lobelia4cosmetics,Lobelia Cosmetics & Health,2026-06-25T21:50:54.102868+00:00,Lavender essential oil. 10ml. Relaxation. 250 ETB.,True,data/raw/images/lobelia4cosmetics/1008.jpg,3126,87
+1000,tikvahpharma,Tikvah Pharmaceuticals,2026-06-27T05:50:54.102868+00:00,Azithromycin 500mg. 3 tablets/blister. Antibiotic. 210 ETB.,True,data/raw/images/tikvahpharma/1000.jpg,4015,286
+1001,tikvahpharma,Tikvah Pharmaceuticals,2026-06-27T01:50:54.102868+00:00,Doxycycline 100mg. 10 capsules. Broad-spectrum. 280 ETB.,False,,6142,508
+1002,tikvahpharma,Tikvah Pharmaceuticals,2026-06-26T22:50:54.102868+00:00,Metformin 500mg. Diabetes control. 100 tablets. 340 ETB.,True,data/raw/images/tikvahpharma/1002.jpg,2217,12
+1003,tikvahpharma,Tikvah Pharmaceuticals,2026-06-26T18:50:54.102868+00:00,Omeprazole 20mg. Acid reflux. 14 capsules. 150 ETB.,False,,524,28
+1004,tikvahpharma,Tikvah Pharmaceuticals,2026-06-26T16:50:54.102868+00:00,Ciprofloxacin 500mg. 10 tablets. 260 ETB. In stock.,True,data/raw/images/tikvahpharma/1004.jpg,7015,98
+1005,tikvahpharma,Tikvah Pharmaceuticals,2026-06-26T11:50:54.102868+00:00,Losartan 50mg. Hypertension. 30 tablets. 320 ETB.,False,,7999,384
+1006,tikvahpharma,Tikvah Pharmaceuticals,2026-06-26T07:50:54.102868+00:00,Cetirizine 10mg. Antihistamine. 20 tablets. 120 ETB.,True,data/raw/images/tikvahpharma/1006.jpg,5198,56
+1007,tikvahpharma,Tikvah Pharmaceuticals,2026-06-26T02:50:54.102868+00:00,Prednisolone 5mg. 100 tablets. Steroid. 450 ETB.,False,,5732,498
+1008,tikvahpharma,Tikvah Pharmaceuticals,2026-06-26T00:50:54.102868+00:00,Saline nasal spray. 100ml. 95 ETB. For congestion.,True,data/raw/images/tikvahpharma/1008.jpg,3589,246

@@ -1,0 +1,134 @@
+[
+  {
+    "message_id": 1000,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-27T06:50:54.102868+00:00",
+    "message_text": "Amoxicillin 500mg capsules, 100pcs/bottle. Exp 2028. Wholesale price: 450 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/1000.jpg",
+    "views": 1628,
+    "forwards": 38
+  },
+  {
+    "message_id": 1001,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-27T04:50:54.102868+00:00",
+    "message_text": "Paracetamol 500mg tablets. 1000pcs pack. Bulk order available. 320 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 4972,
+    "forwards": 420
+  },
+  {
+    "message_id": 1002,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-26T23:50:54.102868+00:00",
+    "message_text": "NEW: Ibuprofen 400mg. Anti-inflammatory. 50 strips per box. 550 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/1002.jpg",
+    "views": 6845,
+    "forwards": 313
+  },
+  {
+    "message_id": 1003,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-26T17:50:54.102868+00:00",
+    "message_text": "Medical glucose test strips. Box of 50. Accurate reading. 280 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 6390,
+    "forwards": 396
+  },
+  {
+    "message_id": 1004,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-26T16:50:54.102868+00:00",
+    "message_text": "Cough syrup (Guaifenesin) 100ml. Cherry flavor. 180 ETB. Stock available.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/1004.jpg",
+    "views": 7271,
+    "forwards": 593
+  },
+  {
+    "message_id": 1005,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-26T09:50:54.102868+00:00",
+    "message_text": "Vitamin C 1000mg effervescent. 20 tablets/tube. Boosts immunity. 210 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 7616,
+    "forwards": 692
+  },
+  {
+    "message_id": 1006,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-26T07:50:54.102868+00:00",
+    "message_text": "Insulin syringe 1ml U-100. Box of 100. Sterile. 340 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/1006.jpg",
+    "views": 6882,
+    "forwards": 374
+  },
+  {
+    "message_id": 1007,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-26T01:50:54.102868+00:00",
+    "message_text": "Blood pressure monitor (digital). Wrist type. 1,200 ETB. 1-year warranty.",
+    "has_media": false,
+    "image_path": null,
+    "views": 2306,
+    "forwards": 6
+  },
+  {
+    "message_id": 1008,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-25T21:50:54.102868+00:00",
+    "message_text": "Antibiotic ointment (Neomycin). 15g tube. For skin infections. 95 ETB.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/1008.jpg",
+    "views": 4790,
+    "forwards": 133
+  },
+  {
+    "message_id": 1009,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-25T20:50:54.102868+00:00",
+    "message_text": "Multivitamin syrup for kids. 200ml. Iron + Zinc. 250 ETB.",
+    "has_media": false,
+    "image_path": null,
+    "views": 6047,
+    "forwards": 243
+  },
+  {
+    "message_id": 1010,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-25T16:50:54.102868+00:00",
+    "message_text": "Salbutamol inhaler (Asthma). 200 doses. 320 ETB. In stock.",
+    "has_media": true,
+    "image_path": "data/raw/images/CheMed123/1010.jpg",
+    "views": 4048,
+    "forwards": 237
+  },
+  {
+    "message_id": 1011,
+    "channel_name": "CheMed123",
+    "channel_title": "CheMed Medical Products",
+    "message_date": "2026-06-25T11:50:54.102868+00:00",
+    "message_text": "Surgical masks (3-ply). Box of 50. 180 ETB. High quality.",
+    "has_media": false,
+    "image_path": null,
+    "views": 6167,
+    "forwards": 53
+  }
+]

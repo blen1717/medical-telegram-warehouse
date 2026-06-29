@@ -1,0 +1,13 @@
+2026-06-27 08:50:54,097 - INFO - [DEMO MODE] Generating sample medical/pharma data
+2026-06-27 08:50:54,110 - INFO - [DEMO] Scraping @CheMed123 (limit=12)
+2026-06-27 08:50:54,408 - INFO - [DEMO] Finished @CheMed123: 12 messages
+2026-06-27 08:50:54,412 - INFO - [DEMO] Scraping @lobelia4cosmetics (limit=9)
+2026-06-27 08:50:54,505 - INFO - [DEMO] Finished @lobelia4cosmetics: 9 messages
+2026-06-27 08:50:54,510 - INFO - [DEMO] Scraping @tikvahpharma (limit=9)
+2026-06-27 08:50:54,585 - INFO - [DEMO] Finished @tikvahpharma: 9 messages
+2026-06-27 08:50:54,594 - INFO - [DEMO] Complete. Total messages: 30
+2026-06-27 08:50:54,595 - INFO -   @CheMed123: 12 messages
+2026-06-27 08:50:54,595 - INFO -   @lobelia4cosmetics: 9 messages
+2026-06-27 08:50:54,596 - INFO -   @tikvahpharma: 9 messages
+2026-06-27 08:50:54,596 - INFO - [DEMO] Data lake populated at: data/raw/
+2026-06-27 08:50:54,596 - INFO - [DEMO] Log file: logs/scrape_2026-06-27.log
