@@ -1,0 +1,22 @@
+
+# Python
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+.venv
+
+# dbt
+target/
+dbt_packages/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env

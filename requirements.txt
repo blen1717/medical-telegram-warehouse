@@ -1,0 +1,12 @@
+
+telethon
+dbt-duckdb
+duckdb
+Pillow
+python-dotenv
+fastapi
+uvicorn
+ultralytics
+dagster
+dagster-webserver
+pyngrok
